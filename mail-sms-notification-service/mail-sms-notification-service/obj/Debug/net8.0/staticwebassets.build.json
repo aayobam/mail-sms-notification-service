@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OnBgI1mtJd+E3QRVHE1LujflOQFCsW3uEe4ksEFd5+E=",
+  "Source": "mail-sms-notification-service",
+  "BasePath": "_content/mail-sms-notification-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

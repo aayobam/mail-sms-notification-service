@@ -1,0 +1,6 @@
+@mail_sms_notification_service_HostAddress = http://localhost:5296
+
+GET {{mail_sms_notification_service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
